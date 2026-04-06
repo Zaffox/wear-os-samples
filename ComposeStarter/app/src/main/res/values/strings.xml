@@ -23,4 +23,7 @@
     <string name="example_card_title">Example Title</string>
     <string name="example_card_content">Example Content\nMore Lines\nAnd More</string>
     <string name="example_button_text">Example Button</string>
+    <string name="example_button_text2">Example Button2</string>
+    <string name="example_button_text3">Example Button3</string>
+    <string name="example_button_text4">Example Button4</string>
 </resources>
